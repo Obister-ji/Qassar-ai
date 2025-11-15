@@ -7,7 +7,7 @@ A real-time voice support assistant powered by Agora's Conversational AI, Eleven
 - **Real-time Voice Communication**: Low-latency audio streaming using Agora RTC
 - **AI-Powered Conversations**: Intelligent responses via N8N workflow integration
 - **Natural Voice Synthesis**: High-quality text-to-speech using ElevenLabs
-- **Modern React Interface**: Clean, responsive UI with real-time status indicators
+- **Modern React Interface**: Clean, responsive UI with real-time status indicators 
 - **TypeScript Support**: Fully typed frontend for better development experience
 - **Visual Feedback**: Audio level monitoring and connection status indicators
 
