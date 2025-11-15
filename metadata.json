@@ -1,0 +1,8 @@
+
+{
+  "name": "AI Voice Support Assistant",
+  "description": "A voice chatbot that connects users with an AI support agent through Agora's Conversational AI, powered by a custom backend and N8N workflows for business logic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
